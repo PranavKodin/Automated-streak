@@ -40,5 +40,4 @@ def main():
     push_to_github(repo_path)
 
 if __name__ == "__main__":
-    while True:
-        main()
+    main()
